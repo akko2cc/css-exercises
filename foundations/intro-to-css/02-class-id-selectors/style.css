@@ -1,0 +1,24 @@
+p.odd
+{
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+p.cooler
+{
+    font-size: 24px;
+}
+
+div#number2
+{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+div#number4
+{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
