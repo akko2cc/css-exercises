@@ -1,0 +1,44 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box
+{
+    background-color: yellow;
+    width: 600px;
+    height: 200px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.box.box-one,
+.box.box-two
+{
+    padding: 2rem;
+}
+
+.box.box-one
+{
+    background-color: red;
+}
+
+.box.box-two
+{
+    box-sizing: content-box;
+    background-color: blue;
+    display: block;
+}
+
+.center
+{
+    margin: 0 auto;
+}
+
+.wrapper
+{
+    width: 80%;
+    text-align: center;
+}
